@@ -1,10 +1,16 @@
 ## 1 Introduction
 
-### 1.1 Features
+### 1.1 Appearence
+
+The ATK-MD2640 module looks like this:
+
+![](figures/01_ATK-MC2640_Module.png)
+
+### 1.2 Features
 
 The ATK-MC2640 module is a high-performance 200W high-definition camera module launched by ALIENTEK. This module uses OmniVision's OV2640 camera sensor as the core, which is a 1/4-inch CMOS UXGA (1632 * 1232) image sensor. At the same time, the ATK-MC2640 module integrates active crystal oscillators and LDO chips.
 
-### 1.2 Parameter
+### 1.3 Parameter
 
 Here are the product basic parameters:
 
@@ -33,12 +39,6 @@ The electrical parameters are shown in the following table:
 | Supply voltage    | 3.3V                      |
 | IO port level     | 2.8V,compatible with 3.3V |
 | Power dissipation | 40mA                      |
-
-### 1.3 Appearence
-
-The ATK-MD2640 module looks like this:
-
-![](figures/01_ATK-MC2640_Module.png)
 
 ### 1.4 Interface
 
